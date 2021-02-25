@@ -1,5 +1,5 @@
-# UTD-Projects
-A showcase of my coding abilities and improvement over my time at the University of Texas at Dallas
+# ÚŦÐ-Projects
+A showcase of my coding abilities and improvement over my time at the Úniversity of Ŧexas at Ðallas
 
 ## Mimic Win7 Calculator
 My first project done in Java 2 months after starting to learn it. The project's focus was on JPanels and incorporating functions into a working calculator GUI that resembled Windows 7's calculator. Done during my 3rd semester at UTD.
